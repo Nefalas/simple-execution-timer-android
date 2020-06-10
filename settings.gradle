@@ -1,0 +1,2 @@
+include ':ExecutionTimer'
+rootProject.name = "SimpleExecutionTimer"
